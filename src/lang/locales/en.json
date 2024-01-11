@@ -1,0 +1,346 @@
+{
+  "locale": {
+    "en": "English",
+    "fr": "Français"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "discovery": "Discover my projects"
+  },
+  "home": {
+    "first": "Hello, my name is",
+    "second": "Jimmy Leichtmann",
+    "third": "I am a 20 years old student in 3rd year of a Technical Bachelor Degree specialized in Computer Science.",
+    "fourth": "Learn more ↓"
+  },
+  "about": {
+    "header": "About Me",
+    "first": "Who am I?",
+    "second": "Hello! My name is Jimmy Leichtmann, I enjoy coding in my free time. During my first five semesters in the Bachelor's program, I explored object-oriented programming environments (C# .NET Core, PHP, Python) and web technologies (HTML, CSS, JS) in various projects, relying on UML design diagrams. Additionally, the program reform has given me increased awareness of digital law and GDPR.",
+    "third": "Discover my projects",
+    "cv_title": "Download my resume",
+    "cv_path": "src/assets/CVs/LEICHTMANN_JIMMY_CV_EN.pdf"
+  },
+  "skills": {
+    "title": "My Skills",
+    "cat1": "Software development",
+    "cat2": "Back-end",
+    "cat3": "Front-end",
+    "cat4":"Design",
+    "categories": [
+      {
+        "title": "Software Development",
+        "ref": "home"
+      },
+      {
+        "title": "Back-end",
+        "ref": "blog"
+      },
+      {
+        "title": "Front-end",
+        "ref": "help"
+      },
+      {
+        "title": "Design",
+        "ref": "code"
+      }
+    ],
+    "softwares": [
+      {
+        "title": "C#",
+        "src": "C_sharp.svg"
+      },
+      {
+        "title": "Python",
+        "src": "Python.svg"
+      },
+      {
+        "title": "Git",
+        "src": "Git.svg"
+      },
+      {
+        "title": "WinUI",
+        "src": "Logo-winui.svg"
+      },
+      {
+        "title": "Docker",
+        "src": "logo-docker.svg"
+      },
+      {
+        "title": "Unix",
+        "src": "Tux.svg"
+      }
+    ],
+    "back": [
+      {
+        "title": "C#",
+        "src": "C_sharp.svg"
+      },
+      {
+        "title": "Python",
+        "src": "Python.svg"
+      },
+      {
+        "title": "Git",
+        "src": "Git.svg"
+      },
+      {
+        "title": "Flask",
+        "src": "Flask.svg"
+      },
+      {
+        "title": "JavaScript",
+        "src": "js.svg"
+      },
+      {
+        "title": "MongoDB",
+        "src": "MongoDB.svg"
+      },
+      {
+        "title": "PostgreSQL",
+        "src": "pgsql.svg"
+      },
+      {
+        "title": "InfluxDB",
+        "src": "influxdb.svg"
+      },
+      {
+        "title": "PHP",
+        "src": "php.svg"
+      },
+      {
+        "title": "ExpressJS",
+        "src": "express.webp"
+      },
+      {
+        "title": "Laravel",
+        "src": "logo-laravel.svg"
+      }
+    ],
+    "front": [
+      {
+        "title": "HTML",
+        "src": "Html.svg"
+      },
+      {
+        "title": "CSS",
+        "src": "Css.svg"
+      },
+      {
+        "title": "JavaScript",
+        "src": "js.svg"
+      },
+      {
+        "title": "JQuery",
+        "src": "JQuery.svg"
+      },
+      {
+        "title": "Tailwind",
+        "src": "Tailwind.svg"
+      },
+      {
+        "title": "VueJS",
+        "src": "vue.svg"
+      },
+      {
+        "title": "AnimeJS",
+        "src": "animejs.webp"
+      },
+      {
+        "title": "Blazor",
+        "src": "blazor.svg"
+      }
+    ],
+    "design": [
+      {
+        "title": "Figma",
+        "src": "Figma.svg"
+      },
+      {
+        "title": "Aseprite",
+        "src": "Aseprite.svg"
+      },
+      {
+        "title": "Photoshop",
+        "src": "Photoshop.svg"
+      },
+      {
+        "title": "Premiere Pro",
+        "src": "premierepro.svg"
+      },
+      {
+        "title": "Blender",
+        "src": "blender.svg"
+      }
+    ]
+  },
+  "projects": {
+    "title": "My Experiences",
+    "data": [
+      {
+        "id": 1,
+        "year": "2023",
+        "nameProject": "December - January 2024: Portfolio",
+        "imageSrc": "https://imgur.com/P45Bwb1.png",
+        "altText": "Season 13 Image",
+        "title": "Season 13",
+        "description": "This project is a portfolio website allowing me to showcase various computer projects I have worked on.",
+        "tags": [
+          {
+            "title": "VueJS - ",
+            "src": "https://vuejs.org/"
+          },
+          {
+            "title": "Tailwind",
+            "src": "https://tailwindcss.com/"
+          }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 2,
+        "year": "2023",
+        "nameProject": "November - January 2024: University Project",
+        "imageSrc": "https://imgur.com/U30rNFW.png",
+        "altText": "Season 13 Image",
+        "title": "Season 13",
+        "description": "In this project, we deployed sensors (temperature, CO2, luminosity) in the IT department of IUT Annecy. A Raspberry Pi 4 with various Docker containers collected the data, sent it to an InfluxDB database in order to develop a data model to visualize and predict the upcoming temperature in the next x minutes.",
+        "tags": [
+          {
+            "title": "Docker - ",
+            "src": "https://www.docker.com/"
+          },
+          {
+            "title": "C# - ",
+            "src": "https://learn.microsoft.com/en-us/dotnet/csharp/"
+          },
+          {
+            "title": "InfluxDB - ",
+            "src": "https://www.influxdata.com/"
+          },
+          {
+            "title": "Flask - ",
+            "src": "https://flask.palletsprojects.com/en/3.0.x/"
+          },
+          {
+            "title": "Tailwind",
+            "src": "https://tailwindcss.com/"
+          }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 3,
+        "year": "2023",
+        "nameProject": "July - September: Volunteering at POWINOO",
+        "imageSrc": "https://imgur.com/OPiRnMc.png",
+        "altText": "Season 13 Image",
+        "title": "Season 13",
+        "description": "Conduct software tests, Maintain the POWINOO platform's computer network, Keep the SaaS software up to date, accessible for free online at the URL: https://www.powinoo.ovh. Perform software patch and fix updates to keep the IT solution up to date. Update features on the site and evolve the solution based on user feedback.",
+        "tags": [
+          {
+            "title": "OVH - ",
+            "src": "https://www.ovhcloud.com/fr/"
+          },
+          {
+            "title": "C# - ",
+            "src": "https://learn.microsoft.com/en-us/dotnet/csharp/"
+          },
+          {
+            "title": "React - ",
+            "src": "https://react.dev/"
+          },
+          {
+            "title": "NodeJS",
+            "src": "https://nodejs.org/en/about"
+          }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 4,
+        "year": "2023",
+        "nameProject": "Summer 2022/2023: Annecy Lake Festival",
+        "imageSrc": "https://imgur.com/T8nR2pG.png",
+        "altText": "Season 13 Image",
+        "title": "Season 13",
+        "description": "Every summer, the city of Annecy looks for over 400 seasonal workers to support the organization of the Annecy Lake Festival. Living in the Venice of the Alps since my childhood, I have been working for over two years as a receptionist. My main duties included providing information and guiding spectators on-site and at Sibra and SNCF bus points.",
+        "tags": [
+          {
+            "title": "Official Website",
+            "src": "https://www.annecy.fr/213-fete-du-lac-d-annecy.htm"
+          }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 5,
+        "year": "2023",
+        "nameProject": "April - June: Internship at KHEOPS Technologies",
+        "imageSrc": "https://imgur.com/JL1vjyP.png",
+        "altText": "Season 13 Image",
+        "title": "Season 13",
+        "description": "My 2nd year of Technical Bachelor Degree gave me with the opportunity to intern at KHEOPS Technologies as a Digital Quality Assistant. In order to stabilize software and improve the quality of the softwares, my mission involved setting up an automation tool for testing through script writing and configuration.",
+        "tags": [
+          {
+            "title": "Eggplant Functional - ",
+            "src": "https://en.wikipedia.org/wiki/Eggplant_Functional"
+          },
+          {
+            "title": "SenseTalk",
+            "src": "https://docs.eggplantsoftware.com/studio/stk-about-sensetalk/"
+          }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 6,
+        "year": "2023",
+        "nameProject": "March - April: Development of a Clone Website",
+        "imageSrc": "https://imgur.com/QEknUuq.png",
+        "altText": "Season 13 Image",
+        "title": "Season 13",
+        "description": "For this project in groups of 5, we decided to recreate the Tesla website. Thus, we had to develop three key elements: a PostgreSQL database, a C# .NET Framework API, and a VueJS client. The database was created using the 'Code-First' approach: we first created models in our API, then used them to generate tables and associations. The API is coded in C# and incorporates design patterns such as Singleton and Repository.",
+        "tags": [
+          {
+            "title": "VueJS - ",
+            "src": "https://vuejs.org/"
+          },
+          {
+            "title": "C# - ",
+            "src": "https://learn.microsoft.com/en-us/dotnet/csharp/"
+          },
+          {
+            "title": "PostgreSQL",
+            "src": "https://www.postgresql.org/"
+          }
+        ],
+        "isActive": false
+      },
+      {
+        "id": 7,
+        "year": "2022",
+        "nameProject": "January: Development of a 2D Game",
+        "imageSrc": "https://imgur.com/POjzE19.png",
+        "altText": "Season 13 Image",
+        "title": "Season 13",
+        "description": "To apply the concepts I learned during my 1st semester of my studies, we had to, in groups of 3, develop a 2D game using the C# language and the Monogame framework. This game featured a typographic combat system, where the player had to type the letters and words displayed on the screen and earned points based on the speed of their typing.",
+        "tags": [
+          {
+            "title": "C# - ",
+            "src": "https://learn.microsoft.com/en-us/dotnet/csharp/"
+          },
+          {
+            "title": "Monogame",
+            "src": "https://monogame.net/"
+          }
+        ],
+        "isActive": false
+      }
+    ]
+  }
+}
