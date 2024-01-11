@@ -23,7 +23,7 @@
     "second":"Bonjour ! Je m'appelle Jimmy, et l'informatique me passionne depuis mon enfance. J'aime développer dans mon temps libre. Lors de mes trois premiers semestre en BUT, j'ai découvert les environnements de programmation orientés objet (C# .NET Core, PHP, Python) et web (HTML, CSS, JS) au sein de différents projets, reposant sur des diagrammes  de conception UML. De plus, la réforme du programme m'a permis de bénéficier d'une sensibilisation accrue au droit numérique et au RGPD.",
     "third":"Découvrir les projets",
     "cv_title":"Télécharger mon CV",
-    "cv_path":"src/assets/CVs/LEICHTMANN_JIMMY_CV_FR.pdf"
+    "cv_path":"https://drive.google.com/file/d/1VXJ09h8xXW4zYQWC8Kcc7S79hEb12Zw3/view"
   },
   "skills": {
     "title": "Mes compétences",
